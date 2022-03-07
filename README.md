@@ -1,2 +1,2 @@
 # pds-exercici
-Exercici de classe per començar amb Spring Boot
+GEINF exercise Software development project to get started with Spring Boot
